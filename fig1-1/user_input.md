@@ -1,0 +1,1 @@
+Draw a cartoon that compares three experiences of listening to ambient music: (1) walking into the lobby of a hotel that has a player piano, (2) walking into a restaurant where a well-dressed musician is softly playing the piano, (3) walking into a mall where some visitor is flamboyantly trying out the piano in the public space.
