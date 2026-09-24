@@ -1,0 +1,3 @@
+# User Input
+
+draw a cartoon depicting the everyman as a tailor. a short, corpulent customer wears a comically ill-fitting ready-made suit whose sleeves are too long and whose body is too tight. The tailor points reassuringly to a mannequin which is taller and thinner on which that identical suit fits perfectly. The tailor is sincerely pleased; the customer is quietly incredulous. The caption should be "The suit fits perfectly".
