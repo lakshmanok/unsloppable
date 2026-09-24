@@ -1,0 +1,16 @@
+# Generation prompts
+
+Tool: built-in image_gen. Square (1:1) composition. Initial generation followed by a referenced-image edit.
+
+## Initial generation
+
+Use case: illustration-story. Create an original square single-panel editorial cartoon. A quietly bewildered elderly everyman with a balding crown, wispy side tufts, round wire spectacles and a rumpled checkered jacket stands at an open wardrobe trying to choose ONE outfit he can wear to THREE different places. He holds up a hanger with a simple smart jacket and shirt, contemplating it, a tie draped over his other hand. On the inside wardrobe door are exactly three clearly readable invitation cards, labeled "The office", "Industry conference", and "Dinner with friends". Tiny simple icons on the cards: office building, conference lectern, dinner table. Keep labels large and easy to read. A few other clothes on the rail communicate choosing, not an overloaded room. The metaphor is one person's outfit harmonizing company expectations, professional conventions and personal style, with gentle humor and no bizarre costume. The man is the focal point, vulnerable and charming.
+Style: minimalist black dip-pen editorial cartoon combining James Thurber's loose humanistic contours, R. K. Laxman's flummoxed common man, and Saul Steinberg's spare conceptual line economy. Pure black ink on cream paper, generous blank space, no color, no gradients, no 3D shading, only sparse contour lines and a few checks in his jacket.
+Centered below the drawing, in legible classic italic serif lettering, the exact single sentence caption: "Ideally, I’d like to remain the same person all day."
+Signed "Unsloppable" in delicate but readable black script at lower right above caption. One panel only.
+
+## Revision
+
+Referenced image: initial render, archived as fig5-2_initial_render.jpg.
+
+Edit this cartoon with two precise changes. 1. Remove the main man's beard completely: give him a clean-shaven chin and jaw, no beard, goatee, mustache or stubble. Preserve his round spectacles, balding wispy hair, large nose, bewildered expression and all other features. 2. Replace the three icon-based pinup cards on the wardrobe door with three pinned photographic snapshots of THIS SAME recognizable clean-shaven man in the three settings, interpreted in the existing black-ink cartoon drawing style (photos within a cartoon, no color or photorealistic pasted-in imagery). Each snapshot has a large scene image and a small legible caption on its white border. Top snapshot: the same spectacled balding man wearing a jacket at his office desk with computer and paperwork, caption "The office". Middle snapshot: same man in jacket with conference name badge, at a lectern addressing a conference audience, caption "Industry conference". Bottom snapshot: same man at a restaurant table smiling with two friends and dinner plates and glasses, caption "Dinner with friends". All three scenes MUST prominently depict the man himself, not just objects or buildings. Preserve precisely the rest of the original composition, his clothes and pose holding a hanger and tie, wardrobe, cat, chair, cream ground, spare black pen linework, the Unsloppable signature, and the complete existing caption "Ideally, I’d like to remain the same person all day."
