@@ -1,0 +1,2 @@
+A building contractor proudly unveils three  "strategic pillars" to a family visiting the site. The first two are substantial stone columns. The third is a painted cardboard cutout, seen at an angle so its thin edge and folding support are unmistakable. One member of the family  has leaned sideways to inspect the cardboard pillar; the contrsctor remains solemn. Caption: “The three pillars hold up the roof.”
+
