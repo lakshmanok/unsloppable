@@ -19,7 +19,7 @@ Create single-panel editorial cartoons for books and articles that synthesize th
 1. **James Thurber**: Soft, humanistic, loose, unpretentious contours with gentle, vulnerable humor.
 2. **R.K. Laxman**: The centered, bewildered "Common Man" everyman with round spectacles, rumpled checkered jacket, and quiet bafflement.
 3. **Saul Steinberg**: Razor-sharp pen-and-ink line economy, vast clean negative space, and conceptual wit.
-4. **New Yorker-Style Caption**: Centered at the bottom, printed in classic serif type, delivering deadpan single-sentence irony.
+4. **New Yorker-Style Caption**: Centered at the bottom, printed in classic italic serif type, delivering deadpan single-sentence irony.
 5. **Signed "Unsloppable"**: An authentic cartoonist signature in the lower corner.
 
 ---
@@ -59,7 +59,7 @@ Construct a detailed prompt using the [Master Prompt Anatomy](./examples/prompt_
 - **Linework**: Specify Saul Steinberg's spare, conceptual black dip-pen lines on cream/off-white paper with generous negative space, softened by James Thurber's organic human forms.
 - **Constraints**: Pure black ink line art on white/cream paper; strictly NO color, NO 3D shading, NO gradients, NO CGI textures.
 - **Signature**: Include `signed "Unsloppable" in the bottom-right corner in delicate black ink script`.
-- **Caption**: Include `centered at the bottom beneath the drawing in clean New Yorker serif typography: "[Caption Text]"`.
+- **Caption**: Include `centered at the bottom beneath the drawing in clean New Yorker italic serif typography: "[Caption Text]"`.
 
 ### Phase 3: Generate the Candidate Image
 Execute the tool:
@@ -84,7 +84,7 @@ Once `generate_image` returns the image artifact path:
 | 1 | Thurber Humanism | X/5 | [Soft organic contours, gentle vulnerability?] |
 | 2 | Laxman Flummoxed Everyman | X/5 | [Centered, spectacles, checkered jacket, bewildered?] |
 | 3 | Steinberg Line Economy | X/5 | [Clean ink lines, negative space, no 3D/gradients?] |
-| 4 | New Yorker Caption | X/5 | [Centered at bottom, serif type, legible, deadpan?] |
+| 4 | New Yorker Caption | X/5 | [Centered at bottom, italic serif type, legible, deadpan?] |
 | 5 | "Unsloppable" Signature | X/5 | [Legible "Unsloppable" signature in corner?] |
 | **Total** | **X / 25** | **Status: PASS / FAIL** |
 ```

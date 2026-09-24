@@ -11,7 +11,7 @@ This document provides a systematic evaluation protocol for inspecting and refin
 | **1** | **James Thurber Humanism** | 20% | Gentle, organic curves; soft slumping posture; vulnerable, lovable human charm; absence of sharp or aggressive caricature; flat/unshaded linework. | Min 4 / 5 |
 | **2** | **R.K. Laxman Flummoxed Everyman** | 25% | Centered "Common Man"; wire-rim round spectacles; balding with wispy white side-tufts; slightly rumpled plaid/checkered coat; bewildered/perplexed posture observing absurdity. | Min 4 / 5 |
 | **3** | **Saul Steinberg Line Economy** | 20% | Minimalist black pen-and-ink linework; crisp conceptual thrift; ample clean negative space; no 3D shading, airbrushing, or digital clutter. | Min 4 / 5 |
-| **4** | **New Yorker-Style Caption** | 20% | Positioned neatly centered below the cartoon; legible serif lettering; deadpan, ironic single-sentence humor; correctly spelled without garbled text. | Min 4 / 5 |
+| **4** | **New Yorker-Style Caption** | 20% | Positioned neatly centered below the cartoon; legible italic serif lettering; deadpan, ironic single-sentence humor; correctly spelled without garbled text. | Min 4 / 5 |
 | **5** | **"Unsloppable" Signature** | 15% | Legibly signed `"Unsloppable"` in bottom-right or bottom-left corner in authentic cartoonist script. | Min 4 / 5 |
 
 **Overall Gate**: The cartoon is approved if **Total Score >= 21 / 25** and **No individual criterion scores below 4**. If any criterion fails, proceed to the Re-render Protocol.
@@ -36,7 +36,7 @@ This document provides a systematic evaluation protocol for inspecting and refin
 - **1 (Unacceptable)**: 3D rendered, volumetric lighting, gradients, colored fills, or digital painting effects.
 
 ### 4. New Yorker-Style Caption
-- **5 (Exemplary)**: Single crisp sentence centered beneath the panel in clean serif font. Perfectly legible, deadpan irony, fits the drawing like a glove.
+- **5 (Exemplary)**: Single crisp sentence centered beneath the panel in clean italic serif font. Perfectly legible, deadpan irony, fits the drawing like a glove.
 - **3 (Acceptable)**: Caption is funny and situated at the bottom, but has minor typography distortion or slightly too many words.
 - **1 (Unacceptable)**: Missing caption, garbled AI hieroglyphics, placed inside a speech bubble, or cheesy slapstick punchline.
 
@@ -54,7 +54,7 @@ This document provides a systematic evaluation protocol for inspecting and refin
 | **Digital shading / 3D gradients** | Model defaulted to modern digital illustration | Add strict negative prompt: `no shading, no gradients, no 3D, no digital painting, pure single-weight black dip pen line art on off-white paper, extreme line economy`. |
 | **Everyman is too young or fashionable** | Archetype wasn't specified strongly enough | Emphasize: `RK Laxman Common Man archetype, balding elderly man with tufts of white hair over ears, round wire spectacles, modest rumpled checkered coat, standing flummoxed and bewildered`. |
 | **Too much background clutter** | Complex scene instructions | Emphasize: `Saul Steinberg minimalist negative space, wide empty background, only 2-3 essential conceptual pen lines defining the environment`. |
-| **Caption garbled or missing** | Text generation artifact | Specify exact caption in quotes with explicit layout: `featuring the exact words centered at the bottom in clean classic serif typography: "[Caption Text]"`. If the model struggles with in-image text, use image-to-image refinement or crisp caption formatting. |
+| **Caption garbled or missing** | Text generation artifact | Specify exact caption in quotes with explicit layout: `featuring the exact words centered at the bottom in clean classic italic serif typography: "[Caption Text]"`. If the model struggles with in-image text, use image-to-image refinement or crisp caption formatting. |
 | **Missing "Unsloppable" signature** | Model ignored signature directive | Explicitly include: `neatly signed "Unsloppable" in the bottom right corner in delicate black ink script`. |
 
 ---

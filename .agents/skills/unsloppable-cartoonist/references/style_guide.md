@@ -21,7 +21,7 @@ The Unsloppable style synthesizes three legendary cartoon traditions into a cohe
                +------------------+------------------+
                |                                     |
     [ 4. New Yorker Caption ]             [ 5. 'Unsloppable' Signature ]
-    (Deadpan, centered serif)              (Authentic corner mark)
+    (Deadpan, centered italic serif)       (Authentic corner mark)
 ```
 
 ---
@@ -60,7 +60,7 @@ The Unsloppable style synthesizes three legendary cartoon traditions into a cohe
 
 ### Pillar 4: New Yorker-Style Deadpan Caption
 - **Placement**: Centered neatly beneath the drawing panel, with comfortable whitespace separating the illustration from the text.
-- **Typography**: Classic high-editorial serif typography (reminiscent of Cheltenham, Caslon, or Garamond). Clean, dignified, legible.
+- **Typography**: Classic high-editorial italic serif typography (reminiscent of italicized Cheltenham, Caslon, or Garamond). Clean, dignified, legible.
 - **Voice & Tone**:
   - Understated, calm, matter-of-fact delivery of absurd situations.
   - Single sentence or brief dialogue snippet.
