@@ -1,5 +1,7 @@
 # Generation prompts
 
+The current final image is v3. Subsequent edit prompts are archived in revision-v2.md and revision-v3.md; the prompts below document the earlier versions.
+
 Tool: built-in image_gen.imagegen. Square (1:1) images; no explicit size parameter. Each revision used the preceding render as its referenced image.
 
 ## Initial generation
@@ -22,4 +24,3 @@ Edit this cartoon. Preserve the character, tools, offcuts, black ink drawing sty
 ## Revision 2 — approved
 
 Edit this existing cartoon with one precise localized change to the drywall wall. Move the narrow uncovered strip currently at the far RIGHT of panel 4 so that it is BETWEEN panels 3 and 4 instead. Panel 4's right edge must now meet the wall's right boundary with no gap there. Keep all four panels rectangular, upright, level and neatly aligned. Keep the seam between panels 1 and 2 and between panels 2 and 3 tight. Between panels 3 and 4, leave a subtle narrow vertical opening about 1.5 percent of the total wall width, NOT a large wedge or glaring gap. Through this narrow opening, clearly show timber framing behind the drywall: a slim visible wooden stud with a few wood-grain pen strokes and two short horizontal framing members crossing behind it, suggesting the user's requested rafters. Use restrained black ink marks and a little dark recess so the exposed wood is recognizable within the small gap. Preserve EVERYTHING else: the elderly bespectacled bewildered handyman, his pose and checkered jacket, pencil, tape measure, stacked drywall offcuts, panel numbers 1 2 3 4, sparse black pen-and-ink style, white background, exact italic caption "I only had to measure the first one." and signature "Unsloppable". Do not add any new objects outside the narrow gap.
-

@@ -16,3 +16,8 @@ actually move the uncovered wall to be between panels 3 and 4. also have some ra
 
 yes, fig5-1
 
+## Final replacement approval
+
+perfect. write this in fig5-1, overwriting the earlier final version with this.
+
+Additional revision requests are recorded verbatim in revision-v2.md and revision-v3.md.

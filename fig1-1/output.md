@@ -1,40 +1,44 @@
 # Figure 1-1: Ambient Music Experience Output & Critique
 
+## Status
+
+Revision v3 approved by the user with "great, overwrite fig1-1" and installed as the canonical figure.
+
 ## Caption
-> *“It ranges from mildly haunted, to quietly civilized, to a hostage situation.”*
 
----
+> *“For once, I have no idea what's coming next.”*
 
-## Rendered Image Artifacts
+## Rendered image artifacts
 
-1. **Final Approved Image**: [`fig1-1.jpg`](./fig1-1.jpg)
-   - Strict monochrome black dip-pen ink on warm off-white cream paper.
-   - Three-panel horizontal comparison format (16:9).
-   - Features panel headers: *Hotel Lobby*, *Restaurant*, *Shopping Mall*.
-   - Signed `"Unsloppable"` in bottom-right corner.
+- [Final approved JPEG](./fig1-1.jpg) — 1678 × 937 pixels.
+- [Final approved PNG](./fig1-1.png) — lossless generation master.
+- [Approved revision v3 JPEG](./fig1-1-v3.jpg) and [PNG](./fig1-1-v3.png).
+- [Earlier revision v2 JPEG](./fig1-1-v2.jpg) and [PNG](./fig1-1-v2.png).
+- [Original initial render](./fig1-1_initial_render.jpg).
 
-2. **Initial Candidate Image**: [`fig1-1_initial_render.jpg`](./fig1-1_initial_render.jpg)
-   - First iteration featuring subtle color accents on the street-art piano before being refined to strict monochrome line art.
+Monochrome pen-and-ink triptych on warm cream paper, with the headers Hotel Lobby, Restaurant, and Shopping Mall, and the Unsloppable signature at lower right.
 
----
+## Panel descriptions
 
-## Visual Critique Audit (Final Render)
+1. **Hotel Lobby:** The everyman passes a player piano with an empty bench, looking puzzled.
+2. **Restaurant:** He stops beside the pianist, smiles, and keeps time with a raised hand and tapping foot. Small motion strokes make his rhythmic participation visible.
+3. **Shopping Mall:** He smiles broadly and applauds the flamboyant visitor's spontaneous performance.
 
-Evaluation against the **5-Point Unsloppable Rubric**:
+## Visual critique audit
 
-| # | Dimension | Score (1-5) | Visual Observations | Status |
-|---|---|:---:|---|:---:|
-| **1** | **James Thurber Humanism** | **5 / 5** | Soft, organic curves; gentle sloping posture; vulnerable human charm. The common man moves from cautious hesitation to polite relaxation to comical, endearing alarm. The wild pianist captures Thurber's manic comic energy. | **PASS** |
-| **2** | **R.K. Laxman Flummoxed Everyman** | **5 / 5** | The Common Man anchors each panel: round wire-rim spectacles, balding crown with white side tufts, and signature rumpled checkered coat. His expressions evolve from quiet bafflement at the empty piano bench, to dignified observation, to flummoxed shock with hands raised. | **PASS** |
-| **3** | **Saul Steinberg Line Economy** | **5 / 5** | Pure black dip-pen ink on clean cream paper. Negative space breathes freely. Architectural elements (doorframes, arches) are indicated with minimal strokes. Clean, thrift-conscious pen lines throughout. | **PASS** |
-| **4** | **New Yorker Caption** | **5 / 5** | Centered beneath the triptych in elegant serif italic lettering: *“It ranges from mildly haunted, to quietly civilized, to a hostage situation.”* Includes tasteful panel titles (*Hotel Lobby*, *Restaurant*, *Shopping Mall*). | **PASS** |
-| **5** | **"Unsloppable" Signature** | **5 / 5** | Legibly signed `"Unsloppable"` in authentic cursive ink script in the lower right corner. | **PASS** |
-| **Total** | | **25 / 25** | **Exemplary Adherence Across All 5 Criteria** | **APPROVED** |
+The generated PNG and saved JPEG were visually inspected. Panel 2 now reads as engaged participation. Panels 1 and 3, the pianist and grand piano in panel 2, the headings, caption, and signature remain visually faithful to v2. Generative preservation is not a claim of pixel identity.
 
----
+The user's requested engagement and delight supersede the default bewilderment criterion in panels 2 and 3. The instruction to modify an existing figure supersedes the skill's net-new-only guidance.
 
-## Panel Descriptions
+| # | Dimension | Score | Visual observations |
+|---|---|---|---|
+| 1 | Thurber Humanism | 4/5 | Soft rounded figures and warm smiles make both responses approachable; linework remains controlled rather than loose. |
+| 2 | Laxman Everyman | 5/5 | Round spectacles, balding head, side tufts and checked coat remain consistent across all three panels. His emotions follow the requested progression. |
+| 3 | Steinberg Line Economy | 4/5 | Sparse architecture and broad negative space remain; a few motion strokes communicate participation. Existing piano and coat detail are retained. |
+| 4 | New Yorker Caption | 5/5 | Requested sentence remains complete, centered and legible in italic serif type. |
+| 5 | Unsloppable Signature | 5/5 | Legible flowing signature remains at lower right. |
+| **Total** | | **23/25** | **PASS: every criterion at least 4/5. Approved by the user.** |
 
-- **Panel 1: Hotel Lobby**: The Common Man enters the lobby, hands in pockets or at his sides, staring in puzzled bewilderment at a self-playing upright player piano with an empty bench as the keys press down on their own.
-- **Panel 2: Restaurant**: The Common Man walks into a dining room with classical arches, observing a pianist in a tuxedo tailcoat quietly, softly playing a grand piano with dignified reserve.
-- **Panel 3: Shopping Mall**: The Common Man halts with his hands raised in comical panic as a flamboyant, wild-haired visitor in a tailcoat theatricality lunges at a public upright piano, hammering the keys with manic intensity.
+## Generation records
+
+Built-in image generation edits, with prompts and revision details in [prompt.md](./prompt.md), [revision-v2.md](./revision-v2.md), and [revision-v3.md](./revision-v3.md). The original generation history remains in prompt.md.

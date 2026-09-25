@@ -6,12 +6,14 @@
 
 ## Approved panel
 
-A bewildered elderly handyman stands before four numbered drywall panels. A narrow uncovered strip between panels 3 and 4 reveals wooden framing. His pencil, unused tape measure, and traced offcuts convey the shortcut. Black ink on warm white, with an italic serif caption and “Unsloppable” signature.
+A bewildered elderly handyman stands before four numbered drywall panels installed above a counter. Their straight bottom edges align along the countertop, while their uneven cut top edges leave a thin ceiling gap that increases from left to right, suggesting a shortfall of a few centimeters. Small framing details show through the gap. His pencil, unused tape measure, and traced offcuts convey the shortcut. Black ink on warm white, with an italic serif caption and “Unsloppable” signature.
 
 ## Image files
 
 - fig5-1.jpg: approved final image.
 - fig5-1.png: lossless copy of the approved generated image.
+- Both final files match the approved fig5-1-v3 versions, replacing the earlier final image.
+- revision-v2.md and revision-v3.md: subsequent user requests, generation prompts, and visual reviews.
 - fig5-1_initial_render.jpg: initial draft with exaggerated gaps.
 - fig5-1_revision1.jpg: intermediate draft with a sliver after panel 4.
 
@@ -28,5 +30,4 @@ A bewildered elderly handyman stands before four numbered drywall panels. A narr
 
 ## User approval
 
-Approved with “yes, fig5-1” after the second revision. The final gap is narrow, between panels 3 and 4, and contains visible wood framing.
-
+The figure was initially named with “yes, fig5-1”. Following further revisions, the user approved v3 and requested replacement of the final files: “perfect. write this in fig5-1, overwriting the earlier final version with this.” The final image now depicts the small ceiling gap above drywall installed over a counter.
