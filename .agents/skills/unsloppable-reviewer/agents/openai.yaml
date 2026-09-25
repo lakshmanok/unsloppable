@@ -1,0 +1,4 @@
+interface:
+  display_name: "Unsloppable Manuscript Reviewer"
+  short_description: "Review prose, transitions, and reader understanding"
+  default_prompt: "Use $unsloppable-reviewer to review the attached manuscript for a college-educated knowledge worker, with actionable suggestions for prose, transitions, anecdotes, explanations, and cartoons."
