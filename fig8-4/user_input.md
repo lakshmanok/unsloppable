@@ -1,0 +1,2 @@
+A diligent mechanical assistant is polishing a control panel labeled “90-DAY PILOT”. The panel has a conspicuous raised button labeled “STOP”. In pursuit of a perfectly smooth finish, the assistant has begun loosening the stop button as though it were an unwanted protrusion. A human author holding a folder marked “LOCKED” points firmly to the button, insisting that it remain. Show a metaphorical editing mistake, not an electrical hazard or a repair procedure. Caption: “The stop button stays.”
+
