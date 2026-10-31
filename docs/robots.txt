@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://unsloppable-book.com/sitemap.xml
