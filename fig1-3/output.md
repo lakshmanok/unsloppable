@@ -14,7 +14,7 @@
    - An immaculate, freshly printed score rests on the music stand.
    - The conductor has his baton raised high in mid-air, frozen and waiting expectantly; orchestra members glance sideways.
    - In the foreground audience, RK Laxman's Common Man (wire glasses, checkered coat, wispy white hair) whispers to his neighbor.
-   - Centered New Yorker serif typography: *‘Seems the violinist outsourced the rehearsals.’*
+   - Centered New Yorker serif typography: *“Seems the violinist outsourced the rehearsals.”*
    - Signed `"Unsloppable"` in authentic script in the lower right corner.
 
 ---
@@ -28,7 +28,7 @@ Evaluation against the **5-Point Unsloppable Rubric**:
 | **1** | **James Thurber Humanism** | **5 / 5** | Soft, organic contours and gentle comic pathos. The soloist stands with proper posture holding the instrument, but with the bow lowered sheepishly and a look of mild, vulnerable embarrassment. | **PASS** |
 | **2** | **R.K. Laxman Flummoxed Everyman** | **5 / 5** | Centered in the foreground audience: the classic Common Man archetype with balding crown, unruly white hair over ears, round wire-rim spectacles, and signature checkered coat, leaning in to whisper wryly. | **PASS** |
 | **3** | **Saul Steinberg Line Economy** | **5 / 5** | Razor-sharp black dip-pen lines on warm cream paper with generous negative space. The stage, conductor, and music stand with its pristine printed score are captured with clean conceptual thrift—zero 3D shading, color fills, or digital gradients. | **PASS** |
-| **4** | **New Yorker Caption** | **5 / 5** | Centered beneath the drawing in classic serif typography: *‘Seems the violinist outsourced the rehearsals.’* Perfectly legible with deadpan delivery. | **PASS** |
+| **4** | **New Yorker Caption** | **5 / 5** | Centered beneath the drawing in classic serif typography: *“Seems the violinist outsourced the rehearsals.”* Perfectly legible with deadpan delivery. | **PASS** |
 | **5** | **"Unsloppable" Signature** | **5 / 5** | Distinct, authentic cursive penmanship signed `Unsloppable` in the lower right corner. | **PASS** |
 | **Total** | | **25 / 25** | **Compliant across all 5 criteria** | **APPROVED** |
 
@@ -40,3 +40,9 @@ Evaluation against the **5-Point Unsloppable Rubric**:
 - **The Core Irony (Writing is How You Think)**: The musical score is pristine and immaculate on the stand—analogous to generating a polished document with an LLM. However, the musician never engaged in the thinking/rehearsal process required to internalize and perform the work. The document is ready, but the human is not.
 - **The Performers**: The soloist looks sheepish and hesitant rather than incompetent. Beside him, the conductor waits with baton poised in mid-air, and orchestra members look on with questioning glances.
 - **The Observer**: Seated in the audience foreground, RK Laxman's Common Man quietly delivers the deadpan diagnosis to his neighbor: *“Seems the violinist outsourced the rehearsals.”*
+
+## Caption correction — 2026-10-15
+
+Changed opening and closing single quotation marks to curly double quotation marks with the built-in imagegen tool. Verified visually. Original preserved as `fig1-3_before_caption_edit.jpg`.
+
+Edit prompt: Change only the opening and closing single quotation marks to curly double quotation marks. Exact final caption: “Seems the violinist outsourced the rehearsals.” Keep the caption on one line, centered below the illustration, in the same black italic serif typography, placement and size. Preserve people, facial expressions, instruments, music stands, stage, signature, ink lines, cream paper background, composition and square aspect ratio.

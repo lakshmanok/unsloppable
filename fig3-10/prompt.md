@@ -1,5 +1,19 @@
 # Generation prompt
 
+## Revision — 2026-10-21
+
+Tool: built-in image_gen.imagegen. Edit target: fig3-10.png. One revision render, square format.
+
+Use case: precise-object-edit. Edit the supplied fig3-10 cartoon, keeping its square format, cream paper, black ink drawing style, family characters, strategic pillars sign, roof, signature and exact caption.
+Make exactly these changes:
+1. Arrange the THREE pillars left to right as solid stone pillar, flimsy cardboard pillar, solid stone pillar. Put sturdy round masonry columns under the LEFT AND RIGHT ENDS of the continuous roof beam so the roof clearly stands on those two end supports without needing the middle cardboard. Move the current middle stone column to the right end. Move the current right cardboard column into the middle. Keep its wafer-thin corrugated edge, painted column face, and obvious triangular cardboard easel brace fully readable. It is a theatrical prop, not structural. A small visible gap between its top and the beam reinforces that it carries no load.
+2. Reposition the elderly bespectacled man in the checkered coat as needed so he still leans sideways to peer behind the MIDDLE cardboard pillar and its easel brace; don't obscure the cardboard edge. Preserve the woman and child.
+3. The presenting guide keeps his hardhat and solemn presenting gesture but replace his suit jacket with a recognizable consultant's sleeveless Patagonia fleece vest over a long-sleeved collared shirt. Include a small clearly legible chest patch reading "Patagonia" on the vest. Black and white only. Hardhat AND vest both clearly visible.
+Preserve exact bottom caption in quotation marks and italic serif: “The three pillars hold up the roof.”
+Preserve handwritten "Unsloppable" signature at lower right. Maintain expressive gentle organic figures, spare pen-and-ink contours and generous negative space. No additional pillars or people.
+
+## Original generation
+
 Tool: built-in image_gen.imagegen
 Aspect ratio requested: 1:1 (square)
 No reference images. One render.

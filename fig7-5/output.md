@@ -4,7 +4,9 @@ Approved by the user as fig7-5.
 
 ## Caption
 
-*I know. Usually, I'm asking you to climb down from things.*
+*“I know. Usually, I'm asking you to climb down from things.”*
+
+On 2026-10-25, added double quotation marks around the caption using the built-in image generation tool. Visually verified both quotation marks and caption wording. Updated both final PNG and JPG; preserved the preceding versions as `fig7-5_before_quotes.png` and `fig7-5_before_quotes.jpg`.
 
 ## Panel description
 

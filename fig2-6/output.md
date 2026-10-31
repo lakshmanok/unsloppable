@@ -1,6 +1,8 @@
 # fig2-6
 
-Caption: The suit fits the average person perfectly
+Caption: “The suit fits the average person perfectly.”
+
+Caption punctuation updated using the built-in image generation tool on 2026-10-17. Prompt: Add opening and closing curly double quotation marks and a final period inside the closing quotation mark; preserve the existing typography and all other image details. Original saved as fig2-6_before_caption_edit.jpg.
 
 A short, corpulent customer wears a suit with overlong sleeves and a jacket straining around his belly. The bespectacled everyman tailor smiles sincerely and gestures toward a tall, slender mannequin wearing the matching suit with a smooth fit. The customer looks quietly incredulous.
 

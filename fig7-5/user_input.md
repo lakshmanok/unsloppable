@@ -9,3 +9,7 @@ yes, fig7-5
 # Requested caption replacement
 
 change the caption on the image to "I know. Usually, I'm asking you to climb down from things."
+
+# Requested quotation marks (2026-10-25)
+
+Change Figure 7-5 to add double quotes around the caption
