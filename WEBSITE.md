@@ -1,6 +1,6 @@
 # Book website
 
-The website lives entirely in `docs/`. It uses plain HTML and CSS: no packages, build step, JavaScript, external fonts, or third-party tracking.
+The website lives entirely in `docs/`. It uses plain HTML and CSS: no packages, build step, external fonts, or third-party tracking. The checklist app in `docs/workflow/` uses plain JavaScript.
 
 ## Preview
 
@@ -44,3 +44,9 @@ Official setup references (checked October 31, 2026):
 The pitch and author bio were adapted from the supplied `Frontmatter.docx`; publisher production instructions were excluded. The working cover was supplied by the author. No release date, price, retailer availability, or endorsements are assumed. Twitter and LinkedIn URLs were supplied by the author.
 
 The two current office cartoons were generated with the built-in image-generation tool using the unsloppable-cartoonist skill. Their prompts and visual reviews are in `website-cartoon-concepts/office-pair.md`. Approved originals, prompts, and reviews are in `website-cartoon1/` and `website-cartoon2/`. The superseded illustration is preserved in `website-cartoon1/previous-thank-you/`.
+
+## Chapter 9 workflow app
+
+The app is served at `/workflow/` alongside the book site. Source files are `docs/workflow/index.html`, `style.css`, `data.js`, and `app.js`; there is no build step. It starts with the six triage questions, offers low/medium/high scrutiny routes, and includes every chapter checklist, per-section reviews, notes, Markdown export, and the three sign-off statements. Progress is saved only in the current browser’s localStorage. New document clears the current record after confirmation.
+
+Checklist content comes from the supplied Chapter 9 manuscript, with minor copyediting corrections. The logic test and section-retention check follow the surrounding explanatory prose. Chapter 3’s three passes are referenced, not invented. Quarterly maintenance is separately available. The supplied manuscript is not published.
