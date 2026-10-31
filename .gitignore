@@ -2,3 +2,5 @@ reviews
 output
 tmp
 docs_sent
+tgif-*
+.DS_Store
