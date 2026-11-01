@@ -47,6 +47,8 @@ The two current office cartoons were generated with the built-in image-generatio
 
 ## Chapter 9 workflow app
 
-The app is served at `/workflow/` alongside the book site. Source files are `docs/workflow/index.html`, `style.css`, `data.js`, and `app.js`; there is no build step. It starts with the six triage questions, offers low/medium/high scrutiny routes, and includes every chapter checklist, per-section reviews, notes, Markdown export, and the three sign-off statements. Progress is saved only in the current browser’s localStorage. New document clears the current record after confirmation.
+The app is served at `/workflow/` alongside the book site. Source files are `docs/workflow/index.html`, `style.css`, `data.js`, `triage.js`, and `app.js`; there is no build step. It starts with the six triage questions, offers low/medium/high scrutiny routes, and includes every chapter checklist, per-section reviews, notes, Markdown export, and the three sign-off statements. Progress is saved only in the current browser’s localStorage. New document clears the current record after confirmation.
 
 Checklist content comes from the supplied Chapter 9 manuscript, with minor copyediting corrections. The logic test and section-retention check follow the surrounding explanatory prose. Chapter 3’s three passes are referenced, not invented. Quarterly maintenance is separately available. The supplied manuscript is not published.
+
+Triage uses five multiple-choice risk questions. The highest-risk answer sets the scrutiny tier; time does not affect it. Budgets are 2/5/10 minutes for low, 30/60/90 minutes for medium, and 3/5/8 hours for high. Changing tiers clears an incompatible time choice. Older free-text triage records are preserved in exports, while users answer the new questions again; checklist progress and notes remain intact.
